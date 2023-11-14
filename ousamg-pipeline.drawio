@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T15:40:54.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" version="22.1.0" etag="aYchi1so5wUFVcOi0vOH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T14:55:01.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="Kw7XzDl45RRDDA-rNFNv" version="22.1.0" type="github">
   <diagram name="Page-1" id="wnjMrk7Iqljs6oi2Uc38">
-    <mxGraphModel>
+    <mxGraphModel dx="1575" dy="819" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#333333" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-39" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=#24B064;fontSize=29;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60.49562144722692" y="332.77641899117066" as="sourcePoint" />
+            <mxPoint x="119.390075280381" y="332.77641899117066" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;rotation=0;strokeWidth=2;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150.38715624519895" y="340.525667919301" width="15.498497856260691" height="15.498497856260691" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-41" value="bwa-mem2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontSize=15;rotation=-45;fontColor=#FFFFFF;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="72.69" y="386.5" width="95.89" height="23.25" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;rotation=0;strokeWidth=2;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="244.13058841603933" y="340.525667919301" width="15.498497856260691" height="15.498497856260691" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-44" value="markduplicate" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontSize=15;rotation=-45;fontColor=#FFFFFF;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="156" y="386.5" width="112.53" height="23.25" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-45" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJzdmczMTY3IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAzNC4wNjI5MzUgMzcuOTg4MzgiIGhlaWdodD0iMzcuOTg4MzhtbSIgd2lkdGg9IjM0LjA2MjkzNW1tIj4mI3hhOyAgPGRlZnMgaWQ9ImRlZnMzMTYxIi8+JiN4YTsgICYjeGE7ICA8bWV0YWRhdGEgaWQ9Im1ldGFkYXRhMzE2NCI+JiN4YTsgICAgJiN4YTsgICAgICAmI3hhOyAgICAgICAgaW1hZ2Uvc3ZnK3htbCYjeGE7ICAgICAgICAmI3hhOyAgICAgICAgJiN4YTsgICAgICAmI3hhOyAgICAmI3hhOyAgPC9tZXRhZGF0YT4mI3hhOyAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzkuODg1MDIsLTQxLjc4NjIyNykiIGlkPSJsYXllcjEiPiYjeGE7ICAgIDxnIHRyYW5zZm9ybT0ibWF0cml4KDAuNDA5ODY0OTMsMCwwLC0wLjQwOTg2NDkzLC0zODQuNTI2MzgsNzYzLjg3ODk5KSIgaWQ9Imc2ODExIj4mI3hhOyAgICAgIDxnIGlkPSJnMTA1NzEiIHRyYW5zZm9ybT0ibWF0cml4KDAuOCwwLDAsMC44LDQ0MC4yOTQ1Myw0NDIuODI4MDIpIj4mI3hhOyAgICAgICAgPHBhdGggaWQ9InBhdGgxMDU3MyIgZD0ibSA1OTguNzMyNjgsMTYxMS4yNTc3IGggLTIuNTEzMDQgdiAxMi4xMjU1IGMgMCwwLjA3NiAtMC4wMTE5LDAuMTUxOCAtMC4wMjIxLDAuMjI4NCAtMC4wMDQsMC40ODE1IC0wLjE1NzE0LDAuOTU0NCAtMC40ODY4LDEuMzI5MSBsIC0yMC4xNzgyNiwyMy4wNTAyIGMgLTAuMDA2LDAuMDEgLTAuMDExOCwwLjAxIC0wLjAxNjEsMC4wMTQgLTAuMTIwMjcsMC4xMzQzIC0wLjI2MDUsMC4yNDYgLTAuNDA4NywwLjM0MjcgLTAuMDQzOSwwLjAyOSAtMC4wODgyLDAuMDU0IC0wLjEzNDE1LDAuMDggLTAuMTI4NDQsMC4wNyAtMC4yNjQ2OCwwLjEyODIgLTAuNDA0OTEsMC4xNzAyIC0wLjAzOCwwLjAxMSAtMC4wNzIyLDAuMDI2IC0wLjExMDIsMC4wMzYgLTAuMTUyMzgsMC4wMzYgLTAuMzEwNjYsMC4wNTkgLTAuNDcxMDMsMC4wNTkgaCAtNDkuNTkwNjggYyAtMi4yNjQ1MiwwIC00LjEwNDE3LC0xLjg0MTcgLTQuMTA0MTcsLTQuMTA0NCB2IC0zMy4zMjk4IGggLTIuNTEyNDcgYyAtMy4yMzk0NCwwIC01Ljg2NjExLC0yLjYyNTUgLTUuODY2MTEsLTUuODY2MSB2IC0zMC41MDQ4IGMgMCwtMy4yMzgzIDIuNjI2NjcsLTUuODY1NSA1Ljg2NjExLC01Ljg2NTUgaCAyLjUxMjY2IHYgLTIwLjg4MTUgYyAwLC0yLjI2MjQgMS44Mzk2NSwtNC4xMDQzIDQuMTA0MTcsLTQuMTA0MyBoIDY3LjcxODc1IGMgMi4yNjI0MiwwIDQuMTA0MTcsMS44NDE3IDQuMTA0MTcsNC4xMDQzIHYgMjAuODgxNSBoIDIuNTEzMDQgYyAzLjIzODQ5LDAgNS44NjU3MywyLjYyNzIgNS44NjU3Myw1Ljg2NTUgdiAzMC41MDM5IGMgLTEuOWUtNCwzLjI0MDQgLTIuNjI3NDMsNS44NjYxIC01Ljg2NTkyLDUuODY2MSB6IG0gLTc0LjMzNTk2LDMzLjMzIGggNDcuNTM4NiB2IC0yMC45OTgzIGMgMCwtMS4xMzM4IDAuOTE5ODIsLTIuMDUyMSAyLjA1MjA3LC0yLjA1MjEgaCAxOC4xMjgwOCB2IC0xMC4yODA5IGggLTY3LjcxODc1IHogbSA2Ny43MTg5NCwtOTUuMzM2IGggLTY3LjcxODk0IHYgMTkuNzcwNSBoIDY3LjcxODc1IHYgLTE5Ljc3MDUgeiIvPiYjeGE7ICAgICAgICA8cmVjdCBpZD0icmVjdDEwNTc5IiB3aWR0aD0iMTEyIiBoZWlnaHQ9IjUzLjU5OTk5OCIgeD0iNDc0LjM5OTk5IiB5PSItMTkwNC4wMDA0IiBzdHlsZT0iZm9udC1zdHlsZTpub3JtYWw7Zm9udC12YXJpYW50Om5vcm1hbDtmb250LXdlaWdodDpib2xkO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1mYW1pbHk6J01hdmVuIFBybyc7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjonTWF2ZW4gUHJvIEJvbGQnO2ZpbGw6I2ZmZmZmZiIgdHJhbnNmb3JtPSJzY2FsZSgxLC0xKSIvPmJhbSYjeGE7ICAgICAgICA8cGF0aCBzdHlsZT0iZmlsbDojZmZmZmZmIiBkPSJtIDUyNC4zOTY4MSwxNjQ0LjYzMjYgaCA0Ny41Mzg2IHYgLTIwLjk5ODMgYyAwLC0xLjEzMzggMC45MTk4MywtMi4wNTIxIDIuMDUyMDgsLTIuMDUyMSBoIDE4LjEyODA3IHYgLTEwLjI4MDkgaCAtNjcuNzE4NzUgeiBtIDY3LjcxODk0LC05NS4zMzYgaCAtNjcuNzE4OTQgdiAxOS43NzA1IGggNjcuNzE4NzUgdiAtMTkuNzcwNSB6IiBpZD0icGF0aDEwNTgzIi8+JiN4YTsgICAgICA8L2c+JiN4YTsgICAgICA8ZyB0cmFuc2Zvcm09Im1hdHJpeCgwLjgsMCwwLDAuOCw0MzEuMzM0NTMsNDMzLjg2ODAyKSIgaWQ9Imc2MzQ4LTAiPiYjeGE7ICAgICAgICA8cGF0aCBkPSJtIDU5OC43MzI2OCwxNjExLjI1NzcgaCAtMi41MTMwNCB2IDEyLjEyNTUgYyAwLDAuMDc2IC0wLjAxMTksMC4xNTE4IC0wLjAyMjEsMC4yMjg0IC0wLjAwNCwwLjQ4MTUgLTAuMTU3MTQsMC45NTQ0IC0wLjQ4NjgsMS4zMjkxIGwgLTIwLjE3ODI2LDIzLjA1MDIgYyAtMC4wMDYsMC4wMSAtMC4wMTE4LDAuMDEgLTAuMDE2MSwwLjAxNCAtMC4xMjAyNywwLjEzNDMgLTAuMjYwNSwwLjI0NiAtMC40MDg3LDAuMzQyNyAtMC4wNDM5LDAuMDI5IC0wLjA4ODIsMC4wNTQgLTAuMTM0MTUsMC4wOCAtMC4xMjg0NCwwLjA3IC0wLjI2NDY4LDAuMTI4MiAtMC40MDQ5MSwwLjE3MDIgLTAuMDM4LDAuMDExIC0wLjA3MjIsMC4wMjYgLTAuMTEwMiwwLjAzNiAtMC4xNTIzOCwwLjAzNiAtMC4zMTA2NiwwLjA1OSAtMC40NzEwMywwLjA1OSBoIC00OS41OTA2OCBjIC0yLjI2NDUyLDAgLTQuMTA0MTcsLTEuODQxNyAtNC4xMDQxNywtNC4xMDQ0IHYgLTMzLjMyOTggaCAtMi41MTI0NyBjIC0zLjIzOTQ0LDAgLTUuODY2MTEsLTIuNjI1NSAtNS44NjYxMSwtNS44NjYxIHYgLTMwLjUwNDggYyAwLC0zLjIzODMgMi42MjY2NywtNS44NjU1IDUuODY2MTEsLTUuODY1NSBoIDIuNTEyNjYgdiAtMjAuODgxNSBjIDAsLTIuMjYyNCAxLjgzOTY1LC00LjEwNDMgNC4xMDQxNywtNC4xMDQzIGggNjcuNzE4NzUgYyAyLjI2MjQyLDAgNC4xMDQxNywxLjg0MTcgNC4xMDQxNyw0LjEwNDMgdiAyMC44ODE1IGggMi41MTMwNCBjIDMuMjM4NDksMCA1Ljg2NTczLDIuNjI3MiA1Ljg2NTczLDUuODY1NSB2IDMwLjUwMzkgYyAtMS45ZS00LDMuMjQwNCAtMi42Mjc0Myw1Ljg2NjEgLTUuODY1OTIsNS44NjYxIHogbSAtNzQuMzM1OTYsMzMuMzMgaCA0Ny41Mzg2IHYgLTIwLjk5ODMgYyAwLC0xLjEzMzggMC45MTk4MiwtMi4wNTIxIDIuMDUyMDcsLTIuMDUyMSBoIDE4LjEyODA4IHYgLTEwLjI4MDkgaCAtNjcuNzE4NzUgeiBtIDY3LjcxODk0LC05NS4zMzYgaCAtNjcuNzE4OTQgdiAxOS43NzA1IGggNjcuNzE4NzUgdiAtMTkuNzcwNSB6IiBpZD0icGF0aDU3NzQtNSIvPiYjeGE7ICAgICAgICA8dGV4dCB0cmFuc2Zvcm09InNjYWxlKDEsLTEpIiBpZD0idGV4dDIiIHk9Ii0xNTg0LjgzODciIHg9IjUyNC44MTkwMyIgc3R5bGU9ImZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6Ym9sZDtmb250LXN0cmV0Y2g6bm9ybWFsO2xpbmUtaGVpZ2h0OjAuMDElO2ZvbnQtZmFtaWx5OidNYXZlbiBQcm8nOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J01hdmVuIFBybyBCb2xkJztsZXR0ZXItc3BhY2luZzowcHg7d29yZC1zcGFjaW5nOjBweDtmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2Utb3BhY2l0eToxIiB4bWw6c3BhY2U9InByZXNlcnZlIj48dHNwYW4gaWQ9InRzcGFuMiIgeT0iLTE1ODQuODM4NyIgeD0iNTI0LjgxOTAzIj48dHNwYW4gaWQ9InRzcGFuMSIgc3R5bGU9ImZvbnQtc2l6ZTozMnB4O2xpbmUtaGVpZ2h0OjEuMjUiIHk9Ii0xNTg0LjgzODciIHg9IjUyNC44MTkwMyI+YmFtPC90c3Bhbj48L3RzcGFuPjwvdGV4dD4mI3hhOyAgICAgICAgPHBhdGggaWQ9InBhdGg2Mjc2LTAtMCIgZD0ibSA1MjQuMzk2ODEsMTY0NC42MzI2IGggNDcuNTM4NiB2IC0yMC45OTgzIGMgMCwtMS4xMzM4IDAuOTE5ODMsLTIuMDUyMSAyLjA1MjA4LC0yLjA1MjEgaCAxOC4xMjgwNyB2IC0xMC4yODA5IGggLTY3LjcxODc1IHogbSA2Ny43MTg5NCwtOTUuMzM2IGggLTY3LjcxODk0IHYgMTkuNzcwNSBoIDY3LjcxODc1IHYgLTE5Ljc3MDUgeiIgc3R5bGU9ImZpbGw6I2ZmZmZmZiIvPiYjeGE7ICAgICAgPC9nPiYjeGE7ICAgIDwvZz4mI3hhOyAgPC9nPiYjeGE7PC9zdmc+;rounded=1;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="342.54632047933626" y="305.65404774271445" width="48.53354603688036" height="54.24474249691242" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-80" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=#24B064;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);fontSize=14;" edge="1" parent="1" source="rYDht6aJWPhJBRDVEF-l-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220.13058841603933" y="317.27792113491" as="sourcePoint" />
+            <mxPoint x="119.390075280381" y="332.77641899117066" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="134.88861576278998" y="317.27792113491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-83" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=#24B064;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150.38715624519895" y="348.27491684743137" as="sourcePoint" />
+            <mxPoint x="119.390075280381" y="332.77641899117066" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="134.88861576278998" y="348.27491684743137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;rotation=0;strokeWidth=2;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="186.80872637885986" y="309.5286722067796" width="15.498497856260691" height="15.498497856260691" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-87" value="DRAGEN" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontSize=15;rotation=-45;fontColor=#FFFFFF;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="181.3842372100169" y="263.0331786379976" width="77.49270241204485" height="23.247746784391037" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-88" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=#24B064;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);fontSize=14;" edge="1" parent="1" source="rYDht6aJWPhJBRDVEF-l-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267.37839913965274" y="348.27491684743137" as="sourcePoint" />
+            <mxPoint x="298.37548010447074" y="332.77641899117066" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="282.87693962206174" y="348.27491684743137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-90" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=#24B064;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);fontSize=14;" edge="1" parent="1" source="rYDht6aJWPhJBRDVEF-l-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226.30722423510997" y="317.27792113491" as="sourcePoint" />
+            <mxPoint x="298.37548010447074" y="332.77641899117066" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="282.87693962206174" y="317.27792113491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-91" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=#24B064;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" edge="1" parent="1" target="rYDht6aJWPhJBRDVEF-l-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="298.37548010447074" y="332.77641899117066" as="sourcePoint" />
+            <mxPoint x="368.11891227531106" y="332.77641899117066" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-95" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=#24B064;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" edge="1" parent="1" target="rYDht6aJWPhJBRDVEF-l-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165.88569672760792" y="347.9494483924499" as="sourcePoint" />
+            <mxPoint x="200" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;rotation=0;strokeWidth=2;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190.38058841603933" y="340.525667919301" width="15.498497856260691" height="15.498497856260691" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-42" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=5;strokeColor=#24B064;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rYDht6aJWPhJBRDVEF-l-94" target="rYDht6aJWPhJBRDVEF-l-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220.87908627228967" y="348.2749168474313" as="sourcePoint" />
+            <mxPoint x="224" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-97" value="samtools-sort" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontSize=15;rotation=-45;fontColor=#FFFFFF;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="97.33" y="390" width="121.62" height="23.25" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-70" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;size=20;strokeWidth=2;fontSize=11;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="16.324781072361347" y="301.7794232786493" width="37.19649715778153" height="49.31340226992039" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-71" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Maven+Pro&quot; face=&quot;Maven Pro&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Fastq&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#000000;fontSize=11;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="14" y="321.5047841866174" width="41.84605930250422" height="19.725360907968152" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-72" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;size=20;strokeWidth=2;fontSize=11;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="18.64956214472269" y="304.2450933921453" width="37.19649715778153" height="49.31340226992039" as="geometry" />
+        </mxCell>
+        <mxCell id="rYDht6aJWPhJBRDVEF-l-73" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Maven+Pro&quot; face=&quot;Maven Pro&quot; color=&quot;#ffffff&quot; style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Fastq&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#000000;fontSize=11;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="16.324781072361347" y="323.9704543001135" width="41.84605930250422" height="19.725360907968152" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
