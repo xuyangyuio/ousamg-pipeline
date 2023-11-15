@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T11:34:49.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="HpX_KhUQ2U3e1zEPTW3L" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T11:37:31.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="YKNOhxnBWwHWjRK4fHcS" version="22.1.1" type="github">
   <diagram name="Page-1" id="wnjMrk7Iqljs6oi2Uc38">
-    <mxGraphModel dx="1608" dy="989" grid="0" gridSize="6" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#333333" math="0" shadow="0">
+    <mxGraphModel dx="3475" dy="1396" grid="0" gridSize="6" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#333333" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,7 +274,7 @@
           <mxGeometry x="7.25" y="21.75" width="14.5" height="14.5" as="geometry" />
         </mxCell>
         <mxCell id="mk260HZwYOke6wQH4dU9-168" value="GenotypeGVCFs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontSize=15;rotation=-45;fontColor=#FFFFFF;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
-          <mxGeometry x="599.99" y="510.04999999999995" width="132" height="30" as="geometry" />
+          <mxGeometry x="604.08" y="510.04999999999995" width="132" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mk260HZwYOke6wQH4dU9-169" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="697" y="603.05" width="29" height="58" as="geometry" />
@@ -339,8 +339,8 @@
         <mxCell id="mk260HZwYOke6wQH4dU9-189" value="DRAGEN" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontSize=15;rotation=-45;fontColor=#FFFFFF;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
           <mxGeometry x="134.69" y="522.05" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mk260HZwYOke6wQH4dU9-199" value="Vcfped" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontSize=15;rotation=-45;fontColor=#FFFFFF;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
-          <mxGeometry x="935" y="518" width="67" height="30" as="geometry" />
+        <mxCell id="mk260HZwYOke6wQH4dU9-199" value="Vcfped (pedigree check)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontSize=15;rotation=-45;fontColor=#FFFFFF;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
+          <mxGeometry x="916" y="481.05" width="188" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mk260HZwYOke6wQH4dU9-215" value="Quality Control" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;fontSize=15;rotation=-45;fontColor=#FFFFFF;fontFamily=Maven Pro Bold (700);fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMaven%2BPro%2BBold%2B(700);" vertex="1" parent="1">
           <mxGeometry x="1006" y="498.8" width="120" height="30" as="geometry" />
